@@ -2,14 +2,10 @@
 
 ### Reference Documentation
 
-For further reference, please consider the following sections:
+<h3>Determiner + Adjective + Noun + Prepositional Phase <h3>
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.7.0/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.7.0/maven-plugin/reference/html/#build-image)
 
-# Pronoun: Đại từ nhân xưng
-## What is pronoun
+##Pronoun: Đại từ nhân xưng
 A pronoun is a word that is used instead(thay thế) of a noun or noun phrase. 
 Pronouns refer(đề cập) to either a noun that has already been mentioned or to a noun that does not need to named 
 specifically.
@@ -107,3 +103,50 @@ Use: To describe actions where the subject and object are the same.
                 (typically non-defining)                     shipment
     That:       Used for people and things                   The piggy bank  that was on my desk got broken.
                 (typically defining clauses)
+
+
+## Prepositional
+verb + prepositional phrase
+1. Cum gioi tu = gioi tu + cum danh tu (han dinh tu + tinh tu + danh tu)
+Cach dung: 
+_ Bổ nghĩa về không gian cho danh từ.
+_ Điều hướng và bổ nghĩa cho động từ.
+_ Giới từ chỉ thời gian
+
+
+                        Nơi chốn(place)                   |                     Thời gian(Time)
+    in:         Các lục địa(châu âu), đất nước, thành phố |             Tháng, năm, thập niên, thập kỉ, mùa, buổi trong ngày
+            tỉnh, huyện, khu vực, vất chứa, thị trấn,     |
+            không gian, tòa nhà.                          |
+    on:         Trên bề mặt của cái gì đó, đảo, trong sách|             Thứ ngày tháng , ngày đặc biệt, ngày buổi cụ thể.    
+            vở
+    at:         Các địa chỉ, địa điểm, cụ thể , chỗ hoạt  |             giờ cụ thể, dịp lễ, dịp cụ thể, vào lúc đêm.
+            động , lễ hội, buổi tiệc lễ hội.
+------------------------------------------------------------------------------------------------------------------------
+                        Place                             |                     Time
+    in:         town and cities                           |              months, years, seasons, parts of the day
+            countries and continents, areas and region    |
+            inside and object, inside a room, inside a    |
+            building                                      |
+            **Helpful**: in a minute/ an hour , in front of - in the middle  - in the future
+            **Watch out**: with verbs of motion (come, go move,run,walk,etc), we usually use *to* instead of *in, on 
+            or at*.
+    ----------------------------------------------------------------------------------------------------------------
+    on      islands, pages, on the top of an object, on a |             days,date
+            surface                                       |
+            
+            **Helpful hints** we aslo use *on* in the following phrases:
+            on the beach - on the left/right - on my brithday
+            
+            **Watch out** We say in the morning/afternoon/evening, but on Monday morning / Wednesday evening
+                          We don't use a preposition with tomorrow morning, yesterday, tomorrow morning, yeterday evening
+    -----------------------------------------------------------------------------------------------------------------
+    at      exact places, addressses, building, when we  |             clock time,holiday periods
+            are talking about the activities that happen,|
+            activities                                   |
+            **Helpful hints** we also use at in the following phrases:
+            at the moment - at night - at the top/bottom - at the door/window
+            **watch out** Compare how we use *in* and *at* for places. We use *in* for larger areas that are all around us
+            when we are there. We use *at* for smaller places and point on journey.
+
+**Bài tập**
