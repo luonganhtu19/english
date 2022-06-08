@@ -73,7 +73,37 @@ Watch out: There is no possessive pronoun for it.
 Use: To describe actions where the subject and object are the same.
      To emphasise who does something.
 
-*Demonstrative pronoun*
+*Demonstrative pronoun(dai tu chi dinh)*
+
+    Singular                Plural
+
+    This                    That
+
+    These                   Those
+
 *indefinite pronoun*
+
+        Singular                                            Plural                              Singular or plural
+    Anybody,anyone, anything,each,                  both,few , many, several                    all, any, most, none,some
+    either, everybody, everyone,
+    everything, neither, nobody,
+    no one, nothing,one, somebody,
+    someone, something.
+
 *interrogative pronoun(dai tu nghi van)*
+        
+    Who, whom, what, which.
 *relative pronouns*
+
+    who,whom,whose,which,that
+            
+                        Usage                                  example
+    who:       used for people: replaces subject              It was my husband who broke the car door
+                pronoun like I, she, he, we, thay.
+    Whose:      show possession or relationship              This is the gril whose notes I brrowed
+    whom:       replaces object pronouns like me,            The man whom they found was sent home.
+                her, him
+    Which:      Used for object and animals                  The robot, which were waiting outside, were ready for
+                (typically non-defining)                     shipment
+    That:       Used for people and things                   The piggy bank  that was on my desk got broken.
+                (typically defining clauses)
