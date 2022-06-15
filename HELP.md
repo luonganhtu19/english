@@ -150,3 +150,29 @@ _ Giới từ chỉ thời gian
             when we are there. We use *at* for smaller places and point on journey.
 
 **Bài tập**
+
+
+## Tenses
+
+### Simple tense
+1. Cấu trúc:
+Câu khẳng định:
+_ Động từ thường: S + V / V(e/es): ai đó làm gì.
+2. Cách dùng:
+_ Thói quen hiện tại:
+I usually go to company at 8 o'clock.
+_ Tình trạng lâu dài:
+We are in lives HN city.
+_ Đưa ra quan điểm miêu tả và nhận định:
+The class are so noisy.
+_ Đưa ra sự thật hiển nhiên, nguyên tắc, quy ước, luật pháp.
+
+### Continue tense
+1. Cấu trúc 
+S +is/am/are + Ving.(V; action verb,linking verb)
+I m being a doctor.
+2. Cách dùng.
+_ Đang làm gì ở hiện tại.
+_ Đang tạm thời làm gì(HTĐ but to day HTTD).
+_ Thói quen xấu 
+
