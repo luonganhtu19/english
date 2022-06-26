@@ -37,9 +37,9 @@ example: they built the first aeroplane.
 use: the object of a verb
 
 Example: Could you give me that equipment?
-         Could you give tha equipment to me?
+         Could you give the equipment to me?
 
-*Possessive determines*
+*Possessive determiners*
 <h4> my/your/his/her/our/their. <h4>
 Use: To show who owns or has something. 
 
@@ -150,3 +150,87 @@ _ Giới từ chỉ thời gian
             when we are there. We use *at* for smaller places and point on journey.
 
 **Bài tập**
+
+
+## Present perfect
+
+1. Structure
+1.1 Khẳng định:
+    I/plural + have  + Ved/P2
+    singular + has + Ved/p2
+   Ai đó đã làm gì.
+1.2 Phủ định:
+   I/plural + have not + Ved/p2
+   singular + has not + Ved/p2
+   ai đó đã không làm gì.
+   
+1.3 Câu hỏi:
+    Have + I/plural + Ved/p2
+    Has  + singular 
+Ai đó đã làm gì phải không?
+
+2. Used to:
+
+_ Diễn tả: Ai đó đã làm gì mà không đề cập đến thời gian hoàn thành.
+
+3. Dấu hiệu: 
+_ Already(trạng từ):
+   She has already gone. (Cô đấy đã đi rồi).
+   
+_ Yet(chưa)(Câu phủ định + câu hỏi):
+    She hasn't gone, yet.
+
+_ ever(từng)(trạng từ)
+    She has ever cried
+
+_ never(chưa từng)(Khẳng định):
+    She has never cried.
+
+_ before(trước đó)
+    She hasn't cried before.
+
+_ recently = lately (Gần đây: đầu giữa cuối)
+    She has lately cried.
+
+_ Số lần: once , twice, three times
+    She has watched that movie 5 times (Đây là lần thứ mấy ai đó làm gì).
+
+This day   = Ngày này.
+This month = Tháng này.
+This year  = Năm này.
+Just = vừa mới
+
+### Present perfect simple
+have/has + past participle
+
+    statement                         negative                                    question
+I/you/we/they have('ve)              I/you/we/they have not learnt              have I/you/we/they learnt
+
+#### Use
+
+1. Situations that started in the past and are still true.
+Ex: Mrs Jenkins has been the head teacher for three years.
+   
+2. Completed actions at a time in the past which is not mentioned.
+Ex: I've already read that book.
+   
+3. Completed action where the important thing is the result now.
+Ex: They've all done their homework
+   
+Helpful hints:
+The present perfect simple is often used with following words and phrases:
+_ for: She's taught German here for over five years.
+_ since: MrGray has taught French here since 2006.
+_ just: We've just done this exercise.
+_ already: we've already done this exercise.
+_ yet: We haven't checked the answers yet.
+_ ever: Have you ever had guitar lessons.
+_ never: I've never understood why they give us so much homework?
+_ it's the : It;s the first time we've watched a video in class.
+
+watch out!
+_ We don't use the present perfect simple when we want to say when something happened in the past. We use the past simple.
+Ex: I did my homework last night.
+
+_ We don't use the past simple when we want to show that something happened before now or is still important now 
+Ex: I've finished! Can I go home now.
