@@ -151,6 +151,114 @@ _ Giới từ chỉ thời gian
 
 **Bài tập**
 
+## Verb
+
+### Model verb
+Động từ khuyết thiếu là những động từ có chức năng bổ nghĩa cho động từ chính, dùng để diễn tả khả năng, dự định, sự cấm
+đoán, cần thiết,...
+
+Modal Verbs of Ability có 2 nghĩa thông thường:
+_ Đây có nghĩa là một điều gì bạn học một lần và bạn có thể sử dụng lại bất cứ khi nào bạn muốn (giống như bạn có thể đọc,
+bơi, nói một ngoại ngữ)
+_ Dạng thứ hai của từ khả năng có nghĩa là khả năng đặc biệt. Nói kahr năg nào đó bạn có thể thực hiện hoặc không thể thực 
+hiện trong một tình huống cụ thể
+#### Can/could/be able to: có thể 
+    Can: Dùng cho 2 nghĩa, chỉ khả năng hiện tại.(persent)
+    _ I can play the piano.
+    Could: Dùng với nghĩa thông thường.(past)
+    _I could read when I was four.
+    was able to/couldn't (dùng với nghĩa đặc biệt)
+    When the computer crashed yesterday. I was able to fix it.
+
+    have to V: ai đó phải làm gì
+
+**Bài tập**
+---- could
+Mathematics is one of my favorite hobbies because it is unique, challenging, and it brings a great time. It is an area of
+knowledge such topics as numbers(arithmetic, number theory), formulas and related structures(algebra), shapes and the 
+spaces in which they are contained(geometry), and quantities and their changes(Calculus and analysis). That's the reason,
+I was able to always have the solution for every math problem. But now, when i have gone to work, i don't understand Mathematics. 
+Because, i couldn't spend much time on it. The time now, i can do more. Such as: coding, repair electronics and make more
+money. It can't bring joy to me. I will try to spend more time on math. I will try to spend more time on math fun to find 
+fun again.
+
+---- can.
+At the current 28 years old, i can still just do a few things I want to do.Such as, i can go  on a trip once because i 
+have made money ^^. Or i can coding for build software because it's my job. Or i able to play all e-sport accrue i spend 
+a lot of free time for it. And can see distant beautiful stars because I have a telescope. But i wasn't able to travel 
+abroad.
+
+    
+
+
+
+
+
+
+
+
+## Tenses
+
+### Simple tense
+1. Cấu trúc:
+   Câu khẳng định:
+   _ Động từ thường: S + V / V(e/es): ai đó làm gì.
+2. Cách dùng:
+   _ Thói quen hiện tại:
+   I usually go to company at 8 o'clock.
+   _ Tình trạng lâu dài:
+   We are in lives HN city.
+   _ Đưa ra quan điểm miêu tả và nhận định:
+   The class are so noisy.
+   _ Đưa ra sự thật hiển nhiên, nguyên tắc, quy ước, luật pháp.
+
+### Continue tense
+1. Cấu trúc
+   S +is/am/are + Ving.(V; action verb,linking verb)
+   I m being a doctor.
+2. Cách dùng.
+   _ Đang làm gì ở hiện tại.
+   _ Đang tạm thời làm gì(HTĐ but to day HTTD).
+   _ Thói quen xấu
+### Present perfect simple
+have/has + past participle
+
+    statement                         negative                                    question
+I/you/we/they have('ve)              I/you/we/they have not learnt              have I/you/we/they learnt
+
+#### Use
+
+1. Situations that started in the past and are still true.
+   Ex: Mrs Jenkins has been the head teacher for three years.
+
+2. Completed actions at a time in the past which is not mentioned.
+   Ex: I've already read that book.
+
+3. Completed action where the important thing is the result now.
+   Ex: They've all done their homework
+
+Helpful hints:
+The present perfect simple is often used with following words and phrases:
+_ for: She's taught German here for over five years.
+_ since: MrGray has taught French here since 2006.
+_ just: We've just done this exercise.
+_ already: we've already done this exercise.
+_ yet: We haven't checked the answers yet.
+_ ever: Have you ever had guitar lessons.
+_ never: I've never understood why they give us so much homework?
+_ it's the : It;s the first time we've watched a video in class.
+
+watch out!
+_ We don't use the present perfect simple when we want to say when something happened in the past. We use the past simple.
+Ex: I did my homework last night.
+
+_ We don't use the past simple when we want to show that something happened before now or is still important now
+Ex: I've finished! Can I go home now.
+
+
+
+
+
 
 ## Present perfect
 
@@ -199,63 +307,7 @@ This day   = Ngày này.
 This month = Tháng này.
 This year  = Năm này.
 Just = vừa mới
-## Tenses
 
-### Simple tense
-1. Cấu trúc:
-   Câu khẳng định:
-   _ Động từ thường: S + V / V(e/es): ai đó làm gì.
-2. Cách dùng:
-   _ Thói quen hiện tại:
-   I usually go to company at 8 o'clock.
-   _ Tình trạng lâu dài:
-   We are in lives HN city.
-   _ Đưa ra quan điểm miêu tả và nhận định:
-   The class are so noisy.
-   _ Đưa ra sự thật hiển nhiên, nguyên tắc, quy ước, luật pháp.
-
-### Continue tense
-1. Cấu trúc
-   S +is/am/are + Ving.(V; action verb,linking verb)
-   I m being a doctor.
-2. Cách dùng.
-   _ Đang làm gì ở hiện tại.
-   _ Đang tạm thời làm gì(HTĐ but to day HTTD).
-   _ Thói quen xấu
-### Present perfect simple
-have/has + past participle
-
-    statement                         negative                                    question
-I/you/we/they have('ve)              I/you/we/they have not learnt              have I/you/we/they learnt
-
-#### Use
-
-1. Situations that started in the past and are still true.
-Ex: Mrs Jenkins has been the head teacher for three years.
-   
-2. Completed actions at a time in the past which is not mentioned.
-Ex: I've already read that book.
-   
-3. Completed action where the important thing is the result now.
-Ex: They've all done their homework
-   
-Helpful hints:
-The present perfect simple is often used with following words and phrases:
-_ for: She's taught German here for over five years.
-_ since: MrGray has taught French here since 2006.
-_ just: We've just done this exercise.
-_ already: we've already done this exercise.
-_ yet: We haven't checked the answers yet.
-_ ever: Have you ever had guitar lessons.
-_ never: I've never understood why they give us so much homework?
-_ it's the : It;s the first time we've watched a video in class.
-
-watch out!
-_ We don't use the present perfect simple when we want to say when something happened in the past. We use the past simple.
-Ex: I did my homework last night.
-
-_ We don't use the past simple when we want to show that something happened before now or is still important now 
-Ex: I've finished! Can I go home now.
 
 
 
