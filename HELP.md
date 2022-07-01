@@ -37,9 +37,9 @@ example: they built the first aeroplane.
 use: the object of a verb
 
 Example: Could you give me that equipment?
-         Could you give the equipment to me?
+         Could you give tha equipment to me?
 
-*Possessive determiners*
+*Possessive determines*
 <h4> my/your/his/her/our/their. <h4>
 Use: To show who owns or has something. 
 
@@ -199,7 +199,29 @@ This day   = Ngày này.
 This month = Tháng này.
 This year  = Năm này.
 Just = vừa mới
+## Tenses
 
+### Simple tense
+1. Cấu trúc:
+   Câu khẳng định:
+   _ Động từ thường: S + V / V(e/es): ai đó làm gì.
+2. Cách dùng:
+   _ Thói quen hiện tại:
+   I usually go to company at 8 o'clock.
+   _ Tình trạng lâu dài:
+   We are in lives HN city.
+   _ Đưa ra quan điểm miêu tả và nhận định:
+   The class are so noisy.
+   _ Đưa ra sự thật hiển nhiên, nguyên tắc, quy ước, luật pháp.
+
+### Continue tense
+1. Cấu trúc
+   S +is/am/are + Ving.(V; action verb,linking verb)
+   I m being a doctor.
+2. Cách dùng.
+   _ Đang làm gì ở hiện tại.
+   _ Đang tạm thời làm gì(HTĐ but to day HTTD).
+   _ Thói quen xấu
 ### Present perfect simple
 have/has + past participle
 
@@ -234,3 +256,7 @@ Ex: I did my homework last night.
 
 _ We don't use the past simple when we want to show that something happened before now or is still important now 
 Ex: I've finished! Can I go home now.
+
+
+
+
