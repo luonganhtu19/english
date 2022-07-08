@@ -162,7 +162,8 @@ _ Đây có nghĩa là một điều gì bạn học một lần và bạn có t
 bơi, nói một ngoại ngữ)
 _ Dạng thứ hai của từ khả năng có nghĩa là khả năng đặc biệt. Nói kahr năg nào đó bạn có thể thực hiện hoặc không thể thực 
 hiện trong một tình huống cụ thể
-#### Can/could/be able to: có thể 
+#### Can/could
+##### Sắc thái 1: /be able to: có thể 
     Can: Dùng cho 2 nghĩa, chỉ khả năng hiện tại.(persent)
     _ I can play the piano.
     Could: Dùng với nghĩa thông thường.(past)
@@ -171,7 +172,39 @@ hiện trong một tình huống cụ thể
     When the computer crashed yesterday. I was able to fix it.
 
     have to V: ai đó phải làm gì
+    like to V: muốn làm gì ngay lập tức
+    love to V: muốn làm gì ngay lậo tức.
+##### Sắc thái 2: xin phép(xin lời khuyên)
+    Can,Could,May (tính lịch sự tăng dần) + V (ai đó có thể làm gì được ko)
+    Can i brrow you a pen.
+    Could you tell me about information she?
+    May i help you?
+##### Sắc thái 3: khuyên nhủ
+    Should S , Ought S to v : ai đó lên làm gì ko (đưa ra lời khuyên)
+    Should i love him?
 
+##### Sắc thái 4: Nghĩa vụ
+    Must: phải (khách quan tác động)
+    Mustn't: không được (cấm đoán)
+    
+    Have to V: ai đó phải làm gì?(lựa chọn chủ quan)
+
+    need + V: cần phải làm gì(dùng ở hiện tại)
+    need to V:(mọi thì)
+    I need to go to bed early yesterday.
+
+##### Sắc thái phán đoán
+    
+    _ Chắc chắn/chắc hẳn: must+be adj/V
+    After along working day, he must be very tired.
+    _ Chắc chắn không: cann't/couldn't + be adj/V
+    Bao is working now, he can't be at the door, he must stay his office.
+    _ Phỏng đoán có thể xảy ra hay ko: should/ought to+ V
+    _ Phỏng đoán có thê đúng hoặc sai: could, may,might
+    See how he looks! He might be a good man.
+
+##### Sắc thái thách thức:
+    dare +V/toV: dám làm gì?
 **Bài tập**
 ---- could
 Mathematics is one of my favorite hobbies because it is unique, challenging, and it brings a great time. It is an area of
