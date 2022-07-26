@@ -341,7 +341,28 @@ This month = Tháng này.
 This year  = Năm này.
 Just = vừa mới
 
-
+#### Dạng câu hỏi
+##### Đáp lại lời cảm ơn.
+Có **thank, thank you**
+* Trả lời: 
+  _ You are welcome.
+  _ Not at all, don't mention it.
+  _ (It's) My pleasure!
+  
+**Chú ý:**
+  Câu cảm ơn về các món đồ, thêm các câu:
+ _ I am glad you like it.
+ _ I'm glad you enjoyed it.
+##### Đáp lại lời cảm ơn.
+* Nhận diện: Câu có trạng từ hay tính từ mang ý nghĩa tốt để miêu tả.
+  Question: What a lovely house you.
+  Answer: Thank you/ Thanks
+  _ It's/That's very nice/kind of you to say that/say on.
+  _ It's a nice compliment. 
+  Cảm ơn lời khen.
+##### Đáp lại lời đề nghị
+* Nhận diện: Can i....shall .... do you need help...
+ _ 
 
 
 
